@@ -15,22 +15,22 @@ This file serves as a copy-paste template to create measure- or analysis-specifi
 *Decision history ine modified*
 
 ## Source Variables
-1. `new source variable 1`
-1. `new source variable 2`
+1. ` source variable 1`
+1. ` source variable 2`
 
 ## Coding Language Available
 | Derived Variable Name | SAS  | STATA  | R  |
 | :---:   | :-: | :-: | :-: |
-| ADL | X |  |  |
+| ADL | X | X |X  |
 | IADL | X |  |  |
 | ADL_IADL | X |  |  |
 | Version (Date) | V1 (07/2019) | | | 
 
 ## Output Variables
-1. `A1234567890`
-1. `B1234567890`
+1. `new variable 1`
+1. `new variable 2`
 
 ## Created by
-*NAME*
+*Maria Corrada*
 
-*E-MAIL/PHONE*
+*mcorrada@uci.edu/PHONE*
