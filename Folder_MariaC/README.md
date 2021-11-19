@@ -9,14 +9,14 @@ This file serves as a copy-paste template to create measure- or analysis-specifi
 # *MEASURE*
 
 ## Date Created
-*DATE*
+11/19/2021
 
 ## Decision History
-*ABCDEFGHIJKLMNOPQSRTUVWXYZ*
+*Decision history ine modified*
 
 ## Source Variables
-1. `ABCDEFGHJIKLMNOPQRSTUVWXYZ`
-1. `ABCDEFGHIJKLNMOPQRSTUVWXYZ`
+1. `new source variable 1`
+1. `new source variable 2`
 
 ## Coding Language Available
 | Derived Variable Name | SAS  | STATA  | R  |
